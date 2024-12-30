@@ -1,13 +1,22 @@
-.vfrc-launcher img{
-  width: 8vw;
-  height:8vw;
+.vfrc-launcher img {
+	width: 8vw;
+	height: 8vw;
 }
 
 .c-ivtLaR-ftPdvq-withChat-false > .c-PJLV {
-  top: 7vh;
-  left: 3.5vw;
+	top: 7vh;
+	left: 3vw;
 }
 
-.c-ivtLaR-gAaWLG-withChat-true > .c-PJLV{
-  transform: translateY(10%);
+.c-ivtLaR-gAaWLG-withChat-true > .c-PJLV {
+	transform: translateY(10%);
+}
+
+.c-ivtLaR-gAaWLG-withChat-true > .c-fikloo {
+  top: 1vh;
+  left: 1vw;
+}
+
+.c-ivtLaR-ftPdvq-withChat-false > .c-fikloo {
+	transform: translateY(-100%);
 }
