@@ -4,23 +4,28 @@
 }
 
 .c-ivtLaR-ftPdvq-withChat-false > .c-PJLV {
-	top: 7vh;
-	left: 3vw;
+	top: 2vh;
+	left: 1vw;
 }
 
 .c-ivtLaR-gAaWLG-withChat-true > .c-PJLV {
 	transform: translateY(10%);
-  top: 7vh;
-	left: 3vw;
+	top: 2vh;
+	left: 1vw;
 }
 
 .c-ivtLaR-gAaWLG-withChat-true > .c-fikloo {
-  top: 1vh;
-  left: 1vw;
+	top: 1vh;
+	left: 1vw;
 }
 
 .c-ivtLaR-ftPdvq-withChat-false > .c-fikloo {
 	transform: translateY(-100%);
-  top: 1vh;
-  left: 1vw;
+	top: 1vh;
+	left: 1vw;
+}
+
+.c-bQoszf {
+  width: 8vw;
+  height: 8vw;
 }
