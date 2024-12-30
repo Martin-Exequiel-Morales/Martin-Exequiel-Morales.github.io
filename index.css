@@ -6,31 +6,31 @@
 .c-ivtLaR-ftPdvq-withChat-false > .c-PJLV {
 	top: 2vh;
 	left: 1vw;
-  bottom: 0;
-  right: 0;
+  bottom: unset;
+  right: unset;
 }
 
 .c-ivtLaR-gAaWLG-withChat-true > .c-PJLV {
 	transform: translateY(10%);
 	top: 2vh;
 	left: 1vw;
-  bottom: 0px;
-  right: 0px;
+  bottom: unset;
+  right: unset;
 }
 
 .c-ivtLaR-gAaWLG-withChat-true > .c-fikloo {
 	top: 1vh;
 	left: 1vw;
-  bottom: 0px;
-  right: 0px;
+  bottom: unset;
+  right: unset;
 }
 
 .c-ivtLaR-ftPdvq-withChat-false > .c-fikloo {
 	transform: translateY(-100%);
 	top: 1vh;
 	left: 1vw;
-  bottom: 0px;
-  right: 0px;
+  bottom: unset;
+  right: unset;
 }
 
 .c-bQoszf {
