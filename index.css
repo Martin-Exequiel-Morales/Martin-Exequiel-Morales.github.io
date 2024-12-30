@@ -19,4 +19,6 @@
 
 .c-ivtLaR-ftPdvq-withChat-false > .c-fikloo {
 	transform: translateY(-100%);
+  top: 1vh;
+  left: 1vw;
 }
